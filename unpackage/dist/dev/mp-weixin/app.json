@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/user/userdt/userdt"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#D8BFD8",
+    "backgroundColor": "#F0F0F0"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#d81e06",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index-n1.png",
+        "selectedIconPath": "static/index-s1.png",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/index-n2.png",
+        "selectedIconPath": "static/index-s2.png",
+        "text": "接口"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap60.json"
+}

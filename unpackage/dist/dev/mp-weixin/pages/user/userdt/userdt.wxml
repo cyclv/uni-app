@@ -1,0 +1,1 @@
+<view class="container" bind:__l="__l"><view class="info flexct wt100"><view class="flexlb info-dt"><view class="left">姓名</view><view class="right">曹云金</view></view></view><view class="info flexct wt100"><view class="flexlb info-dt"><view class="left">身份证</view><view class="right">411082199309174812</view></view></view></view>

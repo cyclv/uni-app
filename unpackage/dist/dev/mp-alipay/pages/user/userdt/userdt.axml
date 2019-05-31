@@ -1,0 +1,2 @@
+<template name="2c32740d"><view class="_view container {{ h[ 0 ].rcl }}"><view class="_view info flexct wt100"><view class="_view flexlb info-dt"><view class="_view left">姓名</view><view class="_view right">曹云金</view></view></view><view class="_view info flexct wt100"><view class="_view flexlb info-dt"><view class="_view left">身份证</view><view class="_view right">411082199309174812</view></view></view></view></template>
+<template is="2c32740d" data="{{ ...$root['0'], $root }}"/>

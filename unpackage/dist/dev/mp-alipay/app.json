@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/user/userdt/userdt"
+  ],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#D8BFD8",
+    "backgroundColor": "#F0F0F0"
+  },
+  "tabBar": {
+    "textColor": "#7A7E83",
+    "selectedColor": "#d81e06",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "组件",
+        "icon": "static/index-n1.png",
+        "activeIcon": "static/index-s1.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "name": "接口",
+        "icon": "static/index-n2.png",
+        "activeIcon": "static/index-s2.png"
+      }
+    ]
+  }
+}

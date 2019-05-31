@@ -1,0 +1,52 @@
+
+.user-info{
+  height: 250rpx;
+  background: #FFCC66;
+}
+.img{
+  width: 210rpx;
+  height: 210rpx;
+  border: 1rpx solid #f5f5f5;
+  margin-left: 20rpx;
+}
+.right{margin-left: 80rpx;}
+.info1{
+  margin-top: -40rpx;
+  font-size: 40rpx;
+}
+.info1 text{
+  font-weight: 900;
+  margin-left: 20rpx;
+}
+.info2{
+  margin-top: 40rpx;
+  color: #CC0000;
+  font-size: 32rpx;
+}
+/* 用户分类操作 */
+.user-classify{
+  font-size: 32rpx;
+}
+.user-classify .info{
+  height: 120rpx;
+  margin-top: 10rpx;
+  background: white;
+}
+.user-classify .left{
+  margin-left: 20rpx;
+}
+.user-classify .left text{
+  margin-left: 60rpx;
+}
+.user-classify .right{
+  margin-right: 20rpx;
+}
+.left image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.user-classify .rt1{
+  margin-right: 20rpx;
+}
+.user-classify .rt2{font-weight: 900;}
+
